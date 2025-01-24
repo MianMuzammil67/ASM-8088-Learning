@@ -23,3 +23,9 @@ This repository contains various Assembly language programs written for learning
 ### 5. **sum10num.asm**
    - This program calculates the sum of 10 numbers (could be predefined or user input).
    - Purpose: Demonstrate loops, arithmetic operations, and basic input/output in Assembly.
+
+
+
+
+## File Naming Conventions
+For a detailed guide on proper file naming practices, please refer to the [file_naming_rules.md](file_naming_rules.md) file.
